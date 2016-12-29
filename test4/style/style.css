@@ -1,4 +1,4 @@
 nav {
-	display: flex;
-	flex-direction: column;
+	display: flex; /* permet d'organiser les éléments à l'intérieur de nav*/
+	flex-direction: column; /*permet de mettre les éléments en colonne et donc à la verticale*/
 }
