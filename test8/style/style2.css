@@ -44,7 +44,7 @@ article {
 
 /*////////CSS du contenu changeant à chaque page/////////*/
 
-img {
-	float: left;
-	margin-right: 5px;
+#image {
+	display: flex;
+	justify-content: space-around;
 }
